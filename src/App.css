@@ -1,0 +1,21 @@
+:fullscreen::backdrop {
+  background: none
+}
+
+.tab {
+  cursor: pointer;
+}
+
+.tab.active {
+  border-bottom: 3px solid #4B40EE;
+}
+
+.dark {
+  background-color: black;
+  border-color: white;
+  color: white;
+}
+
+select {
+  cursor: pointer;
+}
